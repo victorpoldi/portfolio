@@ -1,0 +1,35 @@
+{
+  "Header": {
+    "About": "About",
+    "Contact": "Contact",
+    "Projects": "Projects",
+    "theme": "Theme"
+  },
+  "Footer": {
+    "description": "Follow on social media:"
+  },
+  "Intro": {
+    "title": "Welcome!",
+    "description": "How can I help you?"
+  },
+  "ContactSection": {
+    "title": "Contact",
+    "description": "You can contact me through the form below. I will try to respond as soon as possible."
+  },
+  "AboutSection": {
+    "title": "About me",
+    "description": "I am a web developer passionate about technology. Currently, I am working with JavaScript, React, and Next.js."
+  },
+  "ProjectsSection": {
+    "title": "Projects",
+    "description": "Personal projects that I have developed recently"
+  },
+  "LocaleSwitcher": {
+    "label": "Choose language",
+    "locale": "{locale, select, pt {Português} en {English} other {Unknown}}"
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "description": "The page you are looking for was not found."
+  }
+}

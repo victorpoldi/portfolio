@@ -1,0 +1,39 @@
+{
+  "Header": {
+    "About": "Sobre",
+    "Contact": "Contato",
+    "Projects": "Projetos",
+    "theme": "Tema"
+  },
+  "Footer": {
+    "description": "ASDFASDF"
+  },
+  "Intro": {
+    "title": "Bem vindo!",
+    "description": "Como posso te ajudar?"
+  },
+  "ContactSection": {
+    "title": "Contato",
+    "description": "Você pode entrar em contato comigo através do formulário abaixo. Eu tentarei responder o mais rápido possível."
+  },
+  "AboutSection": {
+    "title": "Sobre mim",
+    "description": "Eu sou um desenvolvedor web apaixonado por tecnologia. Atualmente, estou trabalhando com JavaScript, React e Next.js."
+  },
+  "ProjectsSection": {
+    "title": "Projetos",
+    "description": "Alguns projetos pessoais que desenvolvi recentemente",
+    "project1": "Projeto 1",
+    "project2": "Projeto 2",
+    "project3": "Projeto 3"
+  },
+  "LocaleSwitcher": {
+    "label": "Escolher idioma",
+    "locale": "{locale, select, pt {Português} en {English} other {Unknown}}"
+  },
+  "NotFoundPage": {
+    "title": "Página não encontrada",
+    "description": "A página que você está procurando não foi encontrada."
+  }
+}
+
